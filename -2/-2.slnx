@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="../BinaryTreeSort.1/BinaryTreeSort.1.csproj" />
+  <Project Path="../Bogosort.1/Bogosort.1.csproj" />
+  <Project Path="../Bogosort.2/Bogosort.2.csproj" />
+  <Project Path="../BozoSort.1/BozoSort.1.csproj" />
+  <Project Path="../BozoSort.2/BozoSort.2.csproj" />
+  <Project Path="../Bubble sort algorithm.2/Bubble sort algorithm.2.csproj" />
+  <Project Path="../Insertion sort/Insertion sort.1.csproj" />
+  <Project Path="../InsertionSorter.2/Insertion sort.2.csproj" />
+  <Project Path="../QuickSort.1/QuickSort.1.csproj" />
+  <Project Path="../QuickSort.2/QuickSort.2.csproj" />
+  <Project Path="../SelectionSort.1/SelectionSort.1.csproj" />
+  <Project Path="../SelectionSort.2/SelectionSort.2.csproj" />
+  <Project Path="Bubble sort algorithm.1.csproj" />
+</Solution>
