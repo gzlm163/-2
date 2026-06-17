@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../Prototype g/Prototype g.csproj" Id="a4df3503-1047-4049-ad08-11a426f1c5d6" />
+  <Project Path="../Prototype p/Prototype p.csproj" Id="9c7b3153-9c27-4889-9c85-6f455d5a1c3b" />
+  <Project Path="../Prototype/Prototype.csproj" Id="a95dc23b-a325-4d9d-a11d-9aabe159bc7c" />
   <Project Path="../Smooth sort.1/Singleton.csproj" Id="14cd43bb-287f-4372-8f1f-7334e7a9f156" />
 </Solution>
