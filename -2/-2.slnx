@@ -4,6 +4,10 @@
   <Project Path="../Prototype/Prototype.csproj" Id="a95dc23b-a325-4d9d-a11d-9aabe159bc7c" />
   <Project Path="../Singleton pb/Singleton pb.csproj" Id="5dc07372-5ad7-4dbe-b922-ee129ec0ae58" />
   <Project Path="../Smooth sort.1/Singleton.csproj" Id="14cd43bb-287f-4372-8f1f-7334e7a9f156" />
+  <Project Path="Bridge/Bridge.csproj" Id="4bde6910-3cf7-43c2-bc63-d6c51afa1382" />
+  <Project Path="Builder/Builder.csproj" Id="7859eaeb-d209-4e81-b8e9-a413f433882a" />
+  <Project Path="Chain of Responsibility/Chain of Responsibility.csproj" Id="23cf7efb-5c2e-4388-b6db-9d45a883745d" />
+  <Project Path="Iterator/Iterator.csproj" Id="9bfbc311-2ea5-4387-b553-fa886885bc3a" />
   <Project Path="Memento h/Memento h.csproj" Id="3799c5fb-7d32-4ee3-95c4-f9f68d057b1f" />
   <Project Path="Memento/Memento.csproj" Id="111aa4e8-0144-4511-aa08-766631d554df" />
 </Solution>
