@@ -12,6 +12,7 @@
   <Project Path="Iterator/Iterator.csproj" Id="9bfbc311-2ea5-4387-b553-fa886885bc3a" />
   <Project Path="Memento h/Memento h.csproj" Id="3799c5fb-7d32-4ee3-95c4-f9f68d057b1f" />
   <Project Path="Memento/Memento.csproj" Id="111aa4e8-0144-4511-aa08-766631d554df" />
+  <Project Path="MVC/MVC.csproj" Id="ae86ef94-6523-4d52-89d9-27c775a689b3" />
   <Project Path="Strategy/Strategy.csproj" Id="7ff6c8c8-8f5c-4ba9-8c2c-2e72fe9e6c18" />
   <Project Path="Visitor/Visitor.csproj" Id="c10a4542-d8b7-4f20-8622-bf99869ab3c2" />
 </Solution>
