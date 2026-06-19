@@ -1,19 +1,15 @@
-﻿public class RemoteControl
-{
-    protected IDevice _device;
+﻿public class RemoteControl {
+  protected IDevice _device;
 
-    public RemoteControl(IDevice device)
-    {
-        _device = device;
-    }
+  public RemoteControl(IDevice device) {
+    _device = device;
+  }
 
-    public void TurnOn()
-    {
-        _device.TurnOn();
-    }
+  public void TurnOn() {
+    _device.TurnOn();
+  }
 
-    public void TurnOff()
-    {
-        _device.TurnOff();
-    }
+  public void TurnOff() {
+    _device.TurnOff();
+  }
 }

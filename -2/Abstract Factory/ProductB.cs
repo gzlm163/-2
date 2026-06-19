@@ -1,4 +1,3 @@
-﻿public abstract class ProductB
-{
-    public abstract string GetName();
+﻿public abstract class ProductB {
+  public abstract string GetName();
 }

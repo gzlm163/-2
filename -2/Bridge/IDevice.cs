@@ -1,5 +1,4 @@
-﻿public interface IDevice
-{
-    void TurnOn();
-    void TurnOff();
+﻿public interface IDevice {
+  void TurnOn();
+  void TurnOff();
 }

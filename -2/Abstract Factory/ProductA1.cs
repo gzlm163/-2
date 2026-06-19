@@ -1,7 +1,5 @@
-﻿public class ProductA1 : ProductA
-{
-    public override string GetName()
-    {
-        return "Product A1";
-    }
+﻿public class ProductA1 : ProductA {
+  public override string GetName() {
+    return "Product A1";
+  }
 }

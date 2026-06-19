@@ -1,5 +1,4 @@
-﻿public abstract class AbstractFactory
-{
-    public abstract ProductA CreateProductA();
-    public abstract ProductB CreateProductB();
+﻿public abstract class AbstractFactory {
+  public abstract ProductA CreateProductA();
+  public abstract ProductB CreateProductB();
 }

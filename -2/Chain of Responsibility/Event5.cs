@@ -1,7 +1,5 @@
-﻿public class Event5 : EventBase
-{
-    public Event5()
-    {
-        EventType = "Event5";
-    }
+﻿public class Event5 : EventBase {
+  public Event5() {
+    EventType = "Event5";
+  }
 }

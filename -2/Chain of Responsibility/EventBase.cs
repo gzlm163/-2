@@ -1,4 +1,3 @@
-﻿public abstract class EventBase
-{
-    public string EventType { get; set; }
+﻿public abstract class EventBase {
+  public string EventType { get; set; }
 }

@@ -1,4 +1,3 @@
-﻿public interface IStrategy
-{
-    void Use();
+﻿public interface IStrategy {
+  void Use();
 }

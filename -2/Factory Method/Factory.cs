@@ -1,4 +1,3 @@
-﻿public abstract class Factory
-{
-    public abstract Product FactoryMethod();
+﻿public abstract class Factory {
+  public abstract Product FactoryMethod();
 }

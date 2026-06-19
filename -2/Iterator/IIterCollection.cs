@@ -1,4 +1,3 @@
-﻿public interface IIterCollection
-{
-    IIterator GetIterator();
+﻿public interface IIterCollection {
+  IIterator GetIterator();
 }
