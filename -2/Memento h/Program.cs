@@ -12,7 +12,7 @@ internal class Program {
     user.Print();
     caretaker.SaveState(user);
 
-    user = new FullNameClass("Sidor", "Sidorov", "Sidorovich");
+    user = new FullNameClass("Sergey", "Sergeev", "Sergeevich");
     user.Print();
 
     caretaker.RestoreState(user);

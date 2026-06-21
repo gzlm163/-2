@@ -1,5 +1,5 @@
 ﻿public class HtmlReportBuilder : IReportBuilder {
-  private Report _report = new Report();
+  private readonly Report _report = new Report();
 
   public void SetTitle(string title) {
     _report.Title = title;

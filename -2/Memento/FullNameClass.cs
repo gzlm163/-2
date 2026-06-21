@@ -17,9 +17,9 @@ public class FullNameClass {
 
   public Memento GetMemento() {
     return new Memento {
-      Name = this.Name,
-      Surname = this.Surname,
-      MiddleName = this.MiddleName
+      Name = Name,
+      Surname = Surname,
+      MiddleName = MiddleName
     };
   }
 

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 public class Caretaker {
-  private Stack<Memento> _history = new Stack<Memento>();
+  private readonly Stack<Memento> _history = new Stack<Memento>();
 
   public void SaveState(FullNameClass originator) {
     _history.Push(originator.GetMemento());

@@ -2,7 +2,7 @@
 
 public class ProductController {
   private Product _product;
-  private ProductView _view;
+  private readonly ProductView _view;
   private bool _isRunning;
 
   public ProductController(ProductView view) {

@@ -8,7 +8,7 @@ public class IterCollection : IIterCollection {
 
   public IterCollection(int size) {
     for (int elementIndex = 0; elementIndex < size; ++elementIndex) {
-      _items.Add(elementIndex + 1);
+      _ = _items.Add(elementIndex + 1);
     }
   }
 
